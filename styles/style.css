@@ -5,3 +5,6 @@
 .second{
     background-color: brown;
 }
+.photo{
+    background-size: cover;
+}
